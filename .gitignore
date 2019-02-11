@@ -1,0 +1,6 @@
+wp-content
+web
+vendor
+wp-config.php
+composer.lock
+.*.swp
